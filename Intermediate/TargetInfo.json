@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SIS457LAB103",
+			"Path": "C:\\Users\\david\\Documents\\Unreal Projects\\SIS457LAB103\\Source\\SIS457LAB103.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SIS457LAB103Editor",
+			"Path": "C:\\Users\\david\\Documents\\Unreal Projects\\SIS457LAB103\\Source\\SIS457LAB103Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

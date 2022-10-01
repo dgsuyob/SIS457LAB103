@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\david\\documents\\unreal projects\\sis457lab103\\source\\sis457lab103\\sis457lab103.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\david\\documents\\unreal projects\\sis457lab103\\intermediate\\build\\win64\\sis457lab103editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\david\\documents\\unreal projects\\sis457lab103\\intermediate\\build\\win64\\unrealeditor\\development\\sis457lab103\\definitions.sis457lab103.h",
+            "c:\\users\\david\\documents\\unreal projects\\sis457lab103\\source\\sis457lab103\\sis457lab103.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

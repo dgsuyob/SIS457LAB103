@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\david\\documents\\unreal projects\\sis457lab103\\intermediate\\build\\win64\\unrealeditor\\inc\\sis457lab103\\sis457lab103gamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\david\\documents\\unreal projects\\sis457lab103\\intermediate\\build\\win64\\sis457lab103editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\david\\documents\\unreal projects\\sis457lab103\\intermediate\\build\\win64\\unrealeditor\\development\\sis457lab103\\definitions.sis457lab103.h",
+            "c:\\users\\david\\documents\\unreal projects\\sis457lab103\\source\\sis457lab103\\sis457lab103gamemodebase.h",
+            "d:\\programas\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\programas\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\programas\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "d:\\programas\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\users\\david\\documents\\unreal projects\\sis457lab103\\intermediate\\build\\win64\\unrealeditor\\inc\\sis457lab103\\sis457lab103gamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
